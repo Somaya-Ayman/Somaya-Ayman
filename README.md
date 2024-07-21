@@ -1,5 +1,5 @@
 [![MasterHead](https://www.talent-works.com/wp-content/uploads/2021/03/3981-TW-Blog-Why-Hire-a-DevOps-engineer_BLOG-HEADER-1920x629-v1.png)](https://somaya-ayman.io)
-<h1 align="center">Hi 👋, I'm Somaya Ayman</h1>
+<h1 align="center">Hi, I'm Somaya Ayman</h1>
 <h3 align="center">A passionate DevOps learner from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/6ib6KPmkeAjDTxMxij/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaya-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="somaya-ayman" /> </p>
