@@ -1,8 +1,8 @@
-[![MasterHead]([https://www.shutterstock.com/image-illustration/devops-infinity-symbol-agile-software-600nw-2110035749.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBKdr5CGGFyHWwPyoPobxp6HiESsAar1RBmVsDUeP2TWi-7q2Ga0CmTLczwFUBmz-plI&usqp=CAU)
+[![MasterHead](https://www.shutterstock.com/image-illustration/devops-infinity-symbol-agile-software-600nw-2110035749.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfBKdr5CGGFyHWwPyoPobxp6HiESsAar1RBmVsDUeP2TWi-7q2Ga0CmTLczwFUBmz-plI&usqp=CAU)
 )](https://somaya-ayman.io)
 <h1 align="center">Hi 👋, I'm Somaya Ayman</h1>
 <h3 align="center">A passionate DevOps learner from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" >
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somaya-ayman&label=Profile%20views&color=0e75b6&style=flat" alt="somaya-ayman" /> </p>
 
